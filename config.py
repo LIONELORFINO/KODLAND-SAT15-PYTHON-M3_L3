@@ -1,0 +1,2 @@
+TOKEN = "ISI TOKEN DISINI"
+DATABASE = "data.db"
